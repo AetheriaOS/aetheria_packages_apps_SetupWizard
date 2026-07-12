@@ -8,45 +8,4 @@
     android:height="512dp"
     android:viewportWidth="512"
     android:viewportHeight="512">
-
-    <!-- Left half of A - light gray -->
-    <path
-        android:fillColor="#E8E8EC"
-        android:pathData="
-            M256,147
-            L155,365
-            L219,365
-            L256,275
-            Z" />
-
-    <!-- Right half of A - dark gray -->
-    <path
-        android:fillColor="#96979F"
-        android:pathData="
-            M256,147
-            L355,365
-            L256,365
-            L256,275
-            Z" />
-
-    <!-- Crossbar - light gray (left side) -->
-    <path
-        android:fillColor="#E8E8EC"
-        android:pathData="
-            M219,307
-            L256,307
-            L256,327
-            L210,327
-            Z" />
-
-    <!-- Crossbar - dark gray (right side) -->
-    <path
-        android:fillColor="#96979F"
-        android:pathData="
-            M256,307
-            L302,307
-            L302,327
-            L256,327
-            Z" />
-
 </vector>
